@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(205, 255, 253);
+    width: 100%;
+}
+.decoração{
+    width: 40%;
+    min-width: 300px;
+    max-width: 1800px;
+    border: 2px rgb(0, 255, 200) solid;
+    box-shadow: 1px 2px 4px #919191;
+    margin: auto;
+    background-color: white;
+    text-shadow: 1px 1px 1px #919191,
+                1px 2px 2px #919191,
+                1px 3px 4px #919191;
+}
+.titulo{
+    color: rgb(0, 132, 255);
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #919191,
+                 1px 2px 1px #919191,
+                 1px 3px 1px #919191;
+}
+
+.button{
+    background-color: aqua;
+    color:aliceblue;
+    box-shadow: 1px 4px 6px #919191;
+    text-decoration: none;
+    border: 2px solid aqua;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
